@@ -1,7 +1,7 @@
 ## Testcases
 * Testcases are automated using Python's `requests` package
 * Validations are done using python `assert` statements
-* All testcases validate that the response code is `200`
+* All testcases validate the response status code
 * Other validations include format checks according to docs/examples provided on https://github.com/thundercomb/poetrydb#readme
 * For more details, please refer below tables and test code in `tests` folder
 
